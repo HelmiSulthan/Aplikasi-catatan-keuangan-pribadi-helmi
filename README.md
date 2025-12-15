@@ -6,4 +6,6 @@ PROJECT FRONT END SEDERHANA UNTUK APLIKASI PENCATATAN KEUANGAN PRIBADI
 
 Project ini menggunakan Flutter, dan Rest API untuk menyambungkan ke Backendnya, di Project ini tidak terdapat bagian backendnya karena dibuat terpisah
 
-$Helmi 
+Helmi Sulthan Muhammad 
+2310631250061
+Sistem Informasi 5B
